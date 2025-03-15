@@ -2,3 +2,8 @@ data/
 .env
 venv/
 models/
+runs/
+logs/
+*.pkl
+*.npz
+*.zip
